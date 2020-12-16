@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B04AB4CD258A57B700B6581C /* HakwonManager */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HakwonManager; sourceTree = BUILT_PRODUCTS_DIR; };
 		B04AB4D0258A57B700B6581C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B04AB4D8258A596D00B6581C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		B04AB4CF258A57B700B6581C /* HakwonManager */ = {
 			isa = PBXGroup;
 			children = (
+				B04AB4D8258A596D00B6581C /* .gitignore */,
 				B04AB4D0258A57B700B6581C /* main.cpp */,
 			);
 			path = HakwonManager;
